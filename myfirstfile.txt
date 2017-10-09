@@ -1,4 +1,0 @@
-whatever
-this is gonna go
-print ("nice")
-Greeting from the other room
